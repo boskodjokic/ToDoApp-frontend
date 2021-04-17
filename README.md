@@ -2,7 +2,7 @@
 
 This app is cofigured to work with ToDoApp-backend repository(also on GitHub).
 App is cofigured to work with in-memory H2 database, but it also has setting to work with MySQL database.
-Default username is 'bosko', default password is 'pass123'.
+Default username is 'bosko', default password is 'pass123'. Second username is 'john', password is 'test123'.
 
 # Getting Started with Create React App
 
